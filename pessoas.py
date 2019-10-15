@@ -26,6 +26,6 @@ pessoas = [
         "nome": "Paula",
         "idade": 20,
         "genero": "F",
-        "contato": "(88) 9 8888-8888"
-}
+        "contato": "(88) 9 1238-8888"
+    }
 ]
