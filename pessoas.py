@@ -1,4 +1,3 @@
-#Dicionário
 pessoas = [
     {
         "id": 1,
@@ -23,9 +22,9 @@ pessoas = [
     },
     {
         "id": 4,
-        "nome": "Paula",
+        "nome": "Bárbara",
         "idade": 20,
         "genero": "F",
-        "contato": "(88) 9 8888-8888"
-}
+        "contato": "(88) 9 6473-8888"
+    }
 ]
