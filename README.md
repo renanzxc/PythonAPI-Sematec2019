@@ -7,3 +7,6 @@ Uma breve introdução sobre os conceitos de API e a prática de alguns de seus 
 Download do slide: [Aqui](https://github.com/renanzxc/PythonAPI-Sematec2019/raw/master/Slide%20API%20Python.pdf)
 
 Renan Gustavo - [LinkedIn](https://www.linkedin.com/in/renan-gus/) - [Repositórios](https://github.com/renanzxc?tab=repositories)
+
+### Imagem de Divulgação
+<img src="https://github.com/renanzxc/PythonAPI-Sematec2019/blob/master/ImagemDivulgacao.jpeg" width="600">
